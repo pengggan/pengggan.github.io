@@ -2,10 +2,10 @@
 title: My Blog
 SEOTitle: peng gan
 header-img: img/home-bg.jpg
-email: www@penggan0.us.kg
+email: www@pengggan.github.io
 description: "这里是个人博客，与你一起发现更大的世界"
 keyword: "前端, 设计"
-url: "https://penggan0.us.kg" # your host, for absolute URL
+url: "https://pengggan.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "https://penggan0.us.kg"
+sidebar-about-description: "https://pengggan.github.io"
 #sidebar-avatar: https://pengggan.cloudns.be/img/404-bg.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
