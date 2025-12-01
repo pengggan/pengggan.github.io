@@ -1,10 +1,10 @@
 # Site settings
 title: My Blog
-SEOTitle: peng gan
+SEOTitle: 鹏 - 技术博客与生活记录
 header-img: img/home-bg.jpg
 email: t.me/pg10086bot
-description: "这里是个人博客，与你一起发现更大的世界"
-keyword: "前端, 设计"
+description: "分享技术教程、生活感悟，与你一起探索数字世界"
+keyword: "记录, 生活,个人成长"
 url: "https://pengggan.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,11 +13,12 @@ future: true
 
 # SNS settings
 RSS: true # false
-weibo_username: penggan0
-zhihu_username: penggan0
-github_username: penggan00
-#twitter_username: penggan0
-#facebook_username:  penggan0
+weibo_username: pengggan
+zhihu_username: pengggan
+github_username: pengggan
+email: t.me/pg10086bot
+#twitter_username: pengggan
+#facebook_username:  pengggan
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -36,7 +37,7 @@ exclude:
   ]
 anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN
+timezone: CN
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
@@ -73,7 +74,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "https://t.me/pg10086bot"
-#sidebar-avatar: https://pengggan.cloudns.be/img/404-bg.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: "/img/404-bg.jpg" # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
