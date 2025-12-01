@@ -1,6 +1,6 @@
 # Site settings
-title: My Blog
-SEOTitle: 鹏 - 技术博客与生活记录
+title: P g
+SEOTitle: 干 - 技术博客与生活记录
 header-img: img/home-bg.jpg
 email: t.me/pg10086bot
 description: "分享技术教程、生活感悟，与你一起探索数字世界"
@@ -16,7 +16,6 @@ RSS: true # false
 weibo_username: pengggan
 zhihu_username: pengggan
 github_username: pengggan
-email: t.me/pg10086bot
 #twitter_username: pengggan
 #facebook_username:  pengggan
 #linkedin_username:  firstname-lastname-idxxxx
