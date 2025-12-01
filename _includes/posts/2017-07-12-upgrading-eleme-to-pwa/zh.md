@@ -188,20 +188,3 @@ PWA 作为[下一代 Web 应用模型](https://zhuanlan.zhihu.com/p/25167289)，
 ---
 
 最后，感谢饿了么的王亦斯、任光辉、题叶，Google 的 Michael Yeung、DevRel 团队， UC 浏览器团队，腾讯 X5 浏览器团队在这次项目中的合作。感谢尤雨溪、陈蒙迪和 Jake Archibald 在写作过程中给予我的帮助。
-
-
-
-[1]: https://twitter.com/vuejs/status/834087199008239619
-[2]: https://developers.google.com/web/progressive-web-apps/
-[3]: https://blog.twitter.com/2017/how-we-built-twitter-lite
-[4]: https://medium.com/progressive-web-apps/building-flipkart-lite-a-progressive-web-app-2c211e641883
-[5]: https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454
-[6]: https://shop.polymer-project.org/
-[7]: https://developers.google.com/web/fundamentals/performance/prpl-pattern/
-[8]: https://calendar.perfplanet.com/2013/big-bad-preloader/
-[9]: https://w3c.github.io/ServiceWorker/v1/
-[10]: https://webpack.github.io/
-[11]: https://medium.com/@Huxpro/how-does-sw-precache-works-2d99c3d3c725
-[12]: https://developers.google.com/web/updates/2015/11/app-shell
-[13]: https://googlechrome.github.io/sw-toolbox/
-
