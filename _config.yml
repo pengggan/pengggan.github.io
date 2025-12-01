@@ -1,7 +1,7 @@
 # Site settings
 title: My Blog
 SEOTitle: peng gan
-#header-img: img/home-bg.jpg
+header-img: img/home-bg.jpg
 email: t.me/pg10086bot
 description: "这里是个人博客，与你一起发现更大的世界"
 keyword: "前端, 设计"
